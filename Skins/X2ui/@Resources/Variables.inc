@@ -1,0 +1,2 @@
+[Variables]
+Toggle=0

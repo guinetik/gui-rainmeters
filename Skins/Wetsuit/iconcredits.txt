@@ -1,0 +1,17 @@
+All icons are from Flaticon.
+https://www.flaticon.com
+
+Clock icon by dmitri13 			https://www.flaticon.com/authors/dmitri13
+Bin icon by Freepik 			https://www.flaticon.com/authors/freepik
+CPU icon by Freepik 			https://www.flaticon.com/authors/freepik
+Folder icon by Freepik 			https://www.flaticon.com/authors/freepik
+GPU icon by Freepik 			https://www.flaticon.com/authors/freepik
+Palette icon by Freepik			https://www.flaticon.com/authors/freepik
+RAM icon by Freepik 			https://www.flaticon.com/authors/freepik
+Volume icon by Freepik 			https://www.flaticon.com/authors/freepik
+Plug icon by Gregor Cresnar 		https://www.flaticon.com/authors/gregor-cresnar
+Wifi icon by Gregor Cresnar 		https://www.flaticon.com/authors/gregor-cresnar
+Box icon by Pixel perfect		https://www.flaticon.com/authors/pixel-perfect
+Date icon by Pixel perfect		https://www.flaticon.com/authors/pixel-perfect
+PlayPause icon by Pixel perfect		https://www.flaticon.com/authors/pixel-perfect
+Dropper icon by Those Icons		https://www.flaticon.com/authors/those-icons
