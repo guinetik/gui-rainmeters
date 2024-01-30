@@ -7,4 +7,3 @@ No sweets
 Install obisidian on mobile
 Testing Todo List
 Test Worker Disability
-Install Obsidian on Android
